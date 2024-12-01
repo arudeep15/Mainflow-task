@@ -40,21 +40,58 @@ Welcome to my **Data Analysis Odyssey**! This repository chronicles my two-month
 ### **Week 2 (June 12 – June 18): Data Manipulation with Pandas**  
 - 📥 Load datasets into DataFrames.  
 - 🔎 Filter, clean, and summarize data.  
+<hr>
+<img src="images-mainflow/task-2/Screenshot 2024-12-01 212217.png"  height="500">
+<br>
+
+<img src="images-mainflow/task-2/Screenshot 2024-12-01 212329.png"  height="500">
+
+<img src="images-mainflow/task-2/Screenshot 2024-12-01 212400.png"  height="500">
 
 ### **Week 3 (June 19 – June 25): Data Visualization Magic**  
 - 📊 Create bar and line charts with Matplotlib.  
-- 🎨 Customize visuals with titles, labels, and legends.  
+- 🎨 Customize visuals with titles, labels, and legends.
+<hr>
+<img src="images-mainflow/task-3/Screenshot 2024-12-01 212448.png"  height="500">
+<br>
 
-### **Week 4 (June 26 – July 2): Exploratory Data Analysis (EDA)**  
+<img src="images-mainflow/task-3/Screenshot 2024-12-01 212518.png"  height="500">
+
+<img src="images-mainflow/task-3/Screenshot 2024-12-01 212545.png"  height="500">
+
+<img src="images-mainflow/task-3/Screenshot 2024-12-01 212614.png"  height="500">
+
+### **Week 4 (June 26 – July 2): Exploratory Data Analysis (EDA)**
 - 🔍 Uncover data patterns with distributions and correlations.  
-- 🚨 Identify and visualize outliers.  
+- 🚨 Identify and visualize outliers.
+<hr>
+<img src="images-mainflow/task-3/Screenshot 2024-12-01 212705.png"  height="500">
+<br>
+
+<img src="images-mainflow/task-4/Screenshot 2024-12-01 212731.png"  height="500">
+
+<img src="images-mainflow/task-4/Screenshot 2024-12-01 212827.png"  height="500">
+
+<img src="images-mainflow/task-4/Screenshot 2024-12-01 212852.png"  height="500">
 
 ### **Week 5 (July 3 – July 9): Feature Engineering & Selection**  
 - 🧩 Engineer new features to enhance datasets.  
-- 📉 Use PCA and feature importance to select the best attributes.  
+- 📉 Use PCA and feature importance to select the best attributes.
+<hr>
+<img src="images-mainflow/task-5/Screenshot 2024-12-01 212954.png"  height="500">
+<br>
+
+<img src="images-mainflow/task-5/Screenshot 2024-12-01 213020.png"  height="500">
+
+<img src="images-mainflow/task-5/Screenshot 2024-12-01 213051.png"  height="500">
 
 ### **Week 6 (July 10 – July 16): Time Series Forecasting**  
-- 📈 Detect trends and seasonality using time series analysis.  
+- 📈 Detect trends and seasonality using time series analysis.
+<hr>
+<img src="images-mainflow/task-6/Screenshot 2024-12-01 213125.png"  height="500">
+<br>
+
+<img src="images-mainflow/task-6/Screenshot 2024-12-01 213158.png"  height="500">
 
 ### **Week 7 (July 17 – July 23): Sentiment Analysis & Text Mining**  
 - 💬 Analyze unstructured data for sentiment and insights.  
