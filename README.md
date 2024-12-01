@@ -150,10 +150,6 @@ data-analysis-odyssey/
 
 ---
 
-## 🌈 **Visual Sneak Peek**  
-![Sample Visualization](https://via.placeholder.com/800x400.png?text=Your+Visualizations+Here)  
-_A glimpse into the visualizations crafted during the journey._  
-
 ---
 
 ## ❤️ **Acknowledgments**  
