@@ -28,7 +28,10 @@ Welcome to my **Data Analysis Odyssey**! This repository chronicles my two-month
 
 ### **Week 1 (June 5 – June 11): Python Fundamentals**  
 - 🛠️ Create and manipulate lists, dictionaries, and sets.  
-- ✨ Perform operations like adding, removing, and modifying elements.  
+- ✨ Perform operations like adding, removing, and modifying elements.
+- <hr>
+<img src="task1.png"  height="500">
+<br>
 
 ### **Week 2 (June 12 – June 18): Data Manipulation with Pandas**  
 - 📥 Load datasets into DataFrames.  
