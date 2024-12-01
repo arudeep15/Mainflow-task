@@ -1,7 +1,3 @@
-Here's a creative and visually appealing **README.md** for your GitHub repository:  
-
----
-
 # 🚀 **Data Analysis Odyssey**  
 _A journey through data, one week at a time._  
 
