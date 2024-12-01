@@ -32,6 +32,9 @@ Welcome to my **Data Analysis Odyssey**! This repository chronicles my two-month
 <hr>
 <img src="images-mainflow/task-1/task1.png"  height="500">
 <br>
+
+<img src="images-mainflow/task-1/image2.png"  height="500">
+
 ### **Week 2 (June 12 – June 18): Data Manipulation with Pandas**  
 - 📥 Load datasets into DataFrames.  
 - 🔎 Filter, clean, and summarize data.  
